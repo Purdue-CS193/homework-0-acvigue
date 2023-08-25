@@ -1,7 +1,7 @@
 ## Aiden's First CS193 Homework
 
 ```markdown
-#Favorite things about CS193
+# Favorite things about CS193
 
 - GitHub!
 - Coding
